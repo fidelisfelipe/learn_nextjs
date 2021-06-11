@@ -10,3 +10,9 @@ npm install next react react-dom
 npm run dev
 //create folder pages
 
+//implements index
+//add in github
+//add in vercel (https://vercel.com/fidelisfelipe)
+//link in https://learn-nextjs-vert.vercel.app/
+
+
