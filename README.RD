@@ -8,7 +8,9 @@ npm install next react react-dom
 //update scripts for "dev": "next dev"
 //use for init next server
 npm run dev
+//using File-system routing
 //create folder pages
+//create folder api
 
 //implements index
 //add in github
