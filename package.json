@@ -1,0 +1,17 @@
+{
+  "name": "learn_nextjs",
+  "version": "1.0.0",
+  "description": "//criar o package com todas as configurações padrões\r npm init -Y",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
