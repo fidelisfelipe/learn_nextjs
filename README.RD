@@ -35,7 +35,7 @@ npm run dev
 //getStaticProps        - usado para pegar as props no processo de build, e somente lá para gerar uma página estatica - mais performático por poder ser distribuida em várias cdn's
 //getServerSideProps    - usado para pegar as props em tempo de execução no serve-side - menos performático
 //getStaticPaths        - solução intermediária
-//Gera em tempo de execução páginas estáticas em tempo de execução assim que forem requisitadas
+//Gera em tempo de execução páginas estáticas assim que forem requisitadas
 
 
 
