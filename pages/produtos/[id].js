@@ -10,6 +10,6 @@ export async function getServerSideProps(context){
 }
 
 function Produtos(props){
-    return <div>Produto {props.id}</div>
+    return <div>Produto Test {props.id}</div>
 }
 export default Produtos;
